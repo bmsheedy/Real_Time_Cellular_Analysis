@@ -1,0 +1,5 @@
+train: malaria/train/images
+val: malaria/train/images
+
+nc: 7
+names: ['red blood cell', 'trophozoite', 'schizont', 'difficult', 'ring', 'leukocyte', 'gametocyte']
