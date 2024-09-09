@@ -1,3 +1,11 @@
+"""
+---Real-Time Cellular Analysis YOLO Formatter---
+-----------------------------------------------------------------------------------------------------------------------
+Data formatting of malaria dataset for YOLOv8 model.
+-----------------------------------------------------------------------------------------------------------------------
+---Created by Brandon Sheedy---
+"""
+
 import os
 import pandas as pd
 
